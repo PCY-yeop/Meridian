@@ -39,8 +39,8 @@
 
 // 폼
 // ---------------------------
-const MODE        = "phone";
-const SITE_NAME   = "보라매";
+// const MODE        = "full";
+const SITE_NAME   = "월드메르디앙";
 const API_BASE    = "https://solapi-backend.onrender.com";
 const ADMIN_PHONE = "01022844859";
 
