@@ -1,6 +1,9 @@
 /* ========== PC 모드 (>=768px) 최적화 CSS ========== */
 @media screen and (min-width: 768px) {
 
+  .bottom-bar{
+    display: none;
+  }
   .hero img:nth-of-type(n+2),
   .tel-icon {
     display: none !important;
